@@ -8,31 +8,31 @@
     <version>2.6.6</version>
     <relativePath/> <!-- lookup parent from repository -->
   </parent>
-  <groupId>com.github.abel533</groupId>
+  <groupId>com.absorprofess</groupId>
   <artifactId>autodeploy-maven-central</artifactId>
   <version>1.0.0</version>
   <name>autodeploy-maven-central</name>
   <description>autodeploy-maven-central</description>
-  <url>https://github.com/abel533/autodeploy-maven-central</url>
+  <url>https://github.com/absorprofess/autodeploy-maven-central</url>
 
   <licenses>
     <license>
       <name>The MIT License (MIT)</name>
-      <url>https://github.com/abel533/autodeploy-maven-central/blob/master/LICENSE</url>
+      <url>https://github.com/absorprofess/autodeploy-maven-central/blob/master/LICENSE</url>
     </license>
   </licenses>
 
   <developers>
     <developer>
-      <name>abel533</name>
-      <email>abel533@gmail.com</email>
+      <name>absorprofess</name>
+      <email>absorprofess@gmail.com</email>
     </developer>
   </developers>
 
   <scm>
-    <connection>scm:git:git@github.com:abel533/autodeploy-maven-central.git</connection>
-    <developerConnection>scm:git:git@github.com:abel533/autodeploy-maven-central.git</developerConnection>
-    <url>git@github.com:abel533/autodeploy-maven-central.git</url>
+    <connection>scm:git:git@github.com:absorprofess/autodeploy-maven-central.git</connection>
+    <developerConnection>scm:git:git@github.com:absorprofess/autodeploy-maven-central.git</developerConnection>
+    <url>git@github.com:absorprofess/autodeploy-maven-central.git</url>
   </scm>
 
   <properties>

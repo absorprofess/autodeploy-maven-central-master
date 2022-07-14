@@ -1,4 +1,4 @@
-package com.github.abel533.autodeploymavencentral;
+package com.github.absorprofess.autodeploymavencentral;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
