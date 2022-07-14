@@ -10,7 +10,7 @@
   </parent>
   <groupId>com.absorprofess</groupId>
   <artifactId>autodeploy-maven-central-master</artifactId>
-  <version>1.0.1</version>
+  <version>1.0.7</version>
   <name>autodeploy-maven-central-master</name>
   <description>autodeploy-maven-central-master</description>
   <url>https://github.com/absorprofess/autodeploy-maven-central-master</url>
@@ -89,25 +89,6 @@
             <phase>package</phase>
             <goals>
               <goal>jar-no-fork</goal>
-            </goals>
-          </execution>
-        </executions>
-      </plugin>
-      <!-- Javadoc -->
-      <plugin>
-        <groupId>org.apache.maven.plugins</groupId>
-        <artifactId>maven-javadoc-plugin</artifactId>
-        <version>3.2.0</version>
-        <configuration>
-          <additionalOptions>
-            <additionalOption>-Xdoclint:none</additionalOption>
-          </additionalOptions>
-        </configuration>
-        <executions>
-          <execution>
-            <phase>package</phase>
-            <goals>
-              <goal>jar</goal>
             </goals>
           </execution>
         </executions>
