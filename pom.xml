@@ -9,16 +9,16 @@
     <relativePath/> <!-- lookup parent from repository -->
   </parent>
   <groupId>com.absorprofess</groupId>
-  <artifactId>autodeploy-maven-central</artifactId>
+  <artifactId>autodeploy-maven-central-master</artifactId>
   <version>1.0.1</version>
-  <name>autodeploy-maven-central</name>
-  <description>autodeploy-maven-central</description>
-  <url>https://github.com/absorprofess/autodeploy-maven-central</url>
+  <name>autodeploy-maven-central-master</name>
+  <description>autodeploy-maven-central-master</description>
+  <url>https://github.com/absorprofess/autodeploy-maven-central-master</url>
 
   <licenses>
     <license>
       <name>The MIT License (MIT)</name>
-      <url>https://github.com/absorprofess/autodeploy-maven-central/blob/master/LICENSE</url>
+      <url>https://github.com/absorprofess/autodeploy-maven-central-master/blob/master/LICENSE</url>
     </license>
   </licenses>
 
@@ -30,9 +30,9 @@
   </developers>
 
   <scm>
-    <connection>scm:git:git@github.com:absorprofess/autodeploy-maven-central.git</connection>
-    <developerConnection>scm:git:git@github.com:absorprofess/autodeploy-maven-central.git</developerConnection>
-    <url>git@github.com:absorprofess/autodeploy-maven-central.git</url>
+    <connection>scm:git:git@github.com:absorprofess/autodeploy-maven-central-master.git</connection>
+    <developerConnection>scm:git:git@github.com:absorprofess/autodeploy-maven-central-master.git</developerConnection>
+    <url>git@github.com:absorprofess/autodeploy-maven-central-master.git</url>
   </scm>
 
   <properties>
