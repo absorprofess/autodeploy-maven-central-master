@@ -10,7 +10,7 @@
   </parent>
   <groupId>com.absorprofess</groupId>
   <artifactId>autodeploy-maven-central-master</artifactId>
-  <version>1.0.8</version>
+  <version>1.0.9</version>
   <name>autodeploy-maven-central-master</name>
   <description>autodeploy-maven-central-master</description>
   <url>https://github.com/absorprofess/autodeploy-maven-central-master</url>
@@ -64,7 +64,7 @@
     <repository>
       <id>github</id>
       <name>GitHub Packages</name>
-      <url>https://maven.pkg.github.com/octocat/hello-world</url>
+      <url>https://maven.pkg.github.com/absorprofess/autodeploy-maven-central-master</url>
     </repository>
   </distributionManagement>
 
