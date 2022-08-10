@@ -19,7 +19,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.TOKEN }}
       - name: Upload to release
-        uses: absorprofess/upload-to-release@master
+        uses: absorprofess/autodeploy-maven-central-master@master
         with:
           args: autodeploy-maven-central-master-1.0.10.jar
         env:
