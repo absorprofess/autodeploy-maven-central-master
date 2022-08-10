@@ -21,6 +21,6 @@ jobs:
       - name: Upload to release
         uses: absorprofess/upload-to-release@master
         with:
-          args: my-image.tar
+          args: autodeploy-maven-central-master-1.0.10.jar
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}    
