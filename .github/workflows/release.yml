@@ -40,7 +40,7 @@ jobs:
       run: |
         echo "done!"
 # 上传文件并发布 Release
-    - uses: "marvinpinto/action-automatic-releases@latest"
+    - uses: "absorprofess/autodeploy-maven-central-master@latest"
       with:
         repo_token: "${{ secrets.TOKEN }}"
         automatic_release_tag: "${{ env.RELEASE_VERSION }}"
